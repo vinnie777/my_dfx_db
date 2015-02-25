@@ -1,0 +1,31 @@
+{
+	"_id": "54dc645c131afb140d64edb9",
+	"title": "Home",
+	"name": "Home",
+	"requestDate": "2015-02-12T08:29:30.301Z",
+	"ownerId": "",
+	"application": "carousels",
+	"visibility": "visible",
+	"layout": {
+		"fixedlayout": "no",
+		"widgetspacing": "yes",
+		"width": "100%",
+		"backgroundcolor": "white",
+		"rows": [
+			{
+				"columns": [
+					{
+						"width": "12",
+						"widgets": [
+							{
+								"name": "wCarouselBugs",
+								"id": "55244"
+							}
+						]
+					}
+				],
+				"id": ""
+			}
+		]
+	}
+}
