@@ -1,0 +1,47 @@
+{
+	"_id": "54198833074bd470261dcb17",
+	"name": "qPeopleWithParams",
+	"ownerId": "",
+	"description": "test",
+	"category": "cat7",
+	"format": "json",
+	"persistence": "none",
+	"source": "ext",
+	"settings": {
+		"postrequestbody": "",
+		"authentication": "none",
+		"auth_password": "",
+		"typerequest": "HTTP_GET",
+		"urlrandom": "0",
+		"auth_userid": "",
+		"url": "http://localhost:8080/RestFixture/people_with_params.jsp",
+		"dbdriver": ""
+	},
+	"metadata": "{\"name\":\"root\",\"type\":\"root\",\"children\":{\"people\":{\"name\":\"people\",\"type\":\"Array\",\"options\":{\"properties\":{},\"gcontrols\":[{\"name\":\"SimpleText\",\"perspective\":\"Default\",\"type\":\"TextField\",\"attributes\":{\"label\":\"people\"},\"styles\":{}},{\"name\":\"SimpleEdit\",\"perspective\":\"Edit\",\"type\":\"TextField\",\"attributes\":{\"label\":\"people\"},\"styles\":{}}]},\"children\":{\"firstName\":{\"name\":\"firstName\",\"type\":\"String\",\"options\":{\"properties\":{},\"gcontrols\":[{\"name\":\"SimpleText\",\"perspective\":\"Default\",\"type\":\"TextField\",\"attributes\":{\"label\":\"firstName\"},\"styles\":{}},{\"name\":\"SimpleEdit\",\"perspective\":\"Edit\",\"type\":\"TextField\",\"attributes\":{\"label\":\"firstName\"},\"styles\":{}}]},\"children\":{}},\"lastName\":{\"name\":\"lastName\",\"type\":\"String\",\"options\":{\"properties\":{},\"gcontrols\":[{\"name\":\"SimpleText\",\"perspective\":\"Default\",\"type\":\"TextField\",\"attributes\":{\"label\":\"lastName\"},\"styles\":{}},{\"name\":\"SimpleEdit\",\"perspective\":\"Edit\",\"type\":\"TextField\",\"attributes\":{\"label\":\"lastName\"},\"styles\":{}}]},\"children\":{}},\"account\":{\"name\":\"account\",\"type\":\"String\",\"options\":{\"properties\":{},\"gcontrols\":[{\"name\":\"SimpleText\",\"perspective\":\"Default\",\"type\":\"TextField\",\"attributes\":{\"label\":\"account\"},\"styles\":{}},{\"name\":\"SimpleEdit\",\"perspective\":\"Edit\",\"type\":\"TextField\",\"attributes\":{\"label\":\"account\"},\"styles\":{}}]},\"children\":{}}}}}}",
+	"requestDate": "2014-09-17T13:11:41.206Z",
+	"parameters": [
+		{
+			"name": "name",
+			"type": "request",
+			"value": "John",
+			"operation": "eq"
+		}
+	],
+	"appexpr": [],
+	"precode": [],
+	"postcode": [],
+	"connector": "http",
+	"lock": {
+		"status": "unlocked"
+	},
+	"selector": ":root",
+	"update_comment": "",
+	"visibility": "visible",
+	"versioning": {
+		"my_dfx_db": {
+			"last_action": "1424853185",
+			"status": "committed",
+			"user": "admin"
+		}
+	}
+}

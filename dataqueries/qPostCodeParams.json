@@ -1,0 +1,60 @@
+{
+	"_id": "546e3e3c2472e90820b27403",
+	"name": "qPostCodeParams",
+	"ownerId": "",
+	"description": "test",
+	"category": "cat7",
+	"service": {
+		"name": "",
+		"method": ""
+	},
+	"format": "json",
+	"persistence": "none",
+	"source": "ext",
+	"settings": {
+		"postrequestbody": "",
+		"authentication": "none",
+		"auth_password": "",
+		"typerequest": "HTTP_GET",
+		"urlrandom": "0",
+		"auth_userid": "",
+		"url": "http://localhost:8080/RestFixture/people_with_params.jsp",
+		"dbdriver": "",
+		"dbnames": {
+			"database": "",
+			"collection": ""
+		}
+	},
+	"postcode": [
+		{
+			"name": "peopleWithParams",
+			"code": "console.log('user in post code: ', $user);\n\nvar secondQueryDefinition = {\"qName\":\"qPeopleWithParams\"};\n\nif (params) { \n    secondQueryDefinition.params = params; \n}\n\nexecuteQuery(secondQueryDefinition, function(res) {\n    response.people_with_params = res;\n    terminateFilter();\n});"
+		}
+	],
+	"metadata": "{\"name\":\"root\",\"type\":\"root\",\"children\":{}}",
+	"requestDate": "2014-11-28T11:32:27.057Z",
+	"parameters": [
+		{
+			"name": "name",
+			"type": "request",
+			"value": "Jim",
+			"operation": "eq"
+		}
+	],
+	"appexpr": [],
+	"precode": [],
+	"connector": "http",
+	"lock": {
+		"status": "unlocked"
+	},
+	"selector": ":root",
+	"update_comment": "",
+	"visibility": "visible",
+	"versioning": {
+		"my_dfx_db": {
+			"last_action": "1424853185",
+			"status": "committed",
+			"user": "admin"
+		}
+	}
+}

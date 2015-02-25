@@ -1,0 +1,53 @@
+{
+	"_id": "5447c91bc1c0b7a827d22e5e",
+	"name": "qOdmRulePost",
+	"ownerId": "",
+	"description": "",
+	"category": "cat7",
+	"service": {
+		"name": "",
+		"method": ""
+	},
+	"format": "xml",
+	"persistence": "none",
+	"source": "ext",
+	"settings": {
+		"postrequestbody": "",
+		"authentication": "none",
+		"auth_password": "",
+		"typerequest": "HTTP_GET",
+		"urlrandom": "0",
+		"auth_userid": "",
+		"url": "http://localhost:8080/RestFixture/odm_rule.xml",
+		"dbdriver": "",
+		"dbnames": {
+			"database": "",
+			"collection": ""
+		}
+	},
+	"postcode": [
+		{
+			"name": "tracing",
+			"code": "console.log(response);//server side log\nterminateFilter(response);"
+		}
+	],
+	"metadata": "{\"name\":\"root\",\"type\":\"root\",\"children\":{\"par:Request\":{\"name\":\"par:Request\",\"type\":\"String\",\"options\":{\"properties\":{},\"gcontrols\":[{\"name\":\"SimpleText\",\"perspective\":\"Default\",\"type\":\"TextField\",\"attributes\":{\"label\":\"par:Request\"},\"styles\":{}},{\"name\":\"SimpleEdit\",\"perspective\":\"Edit\",\"type\":\"TextField\",\"attributes\":{\"label\":\"par:Request\"},\"styles\":{}}]},\"children\":{}}}}",
+	"requestDate": "2014-10-22T15:11:23.632Z",
+	"parameters": [],
+	"appexpr": [],
+	"precode": [],
+	"connector": "http",
+	"lock": {
+		"status": "unlocked"
+	},
+	"selector": ":root",
+	"update_comment": "",
+	"visibility": "visible",
+	"versioning": {
+		"my_dfx_db": {
+			"last_action": "1424853185",
+			"status": "committed",
+			"user": "admin"
+		}
+	}
+}

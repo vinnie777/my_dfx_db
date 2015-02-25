@@ -1,0 +1,60 @@
+{
+	"_id": "5478602f2c1f6d3c2706dd46",
+	"name": "qChooseCity",
+	"ownerId": "",
+	"description": "testdfgfdg",
+	"category": "cat7",
+	"service": {
+		"name": "",
+		"method": ""
+	},
+	"format": "json",
+	"persistence": "none",
+	"source": "ext",
+	"settings": {
+		"postrequestbody": "",
+		"authentication": "none",
+		"auth_password": "",
+		"typerequest": "HTTP_GET",
+		"urlrandom": "0",
+		"auth_userid": "",
+		"url": "http://localhost:8080/RestFixture/cities_with_params.jsp",
+		"dbdriver": "",
+		"dbnames": {
+			"database": "",
+			"collection": ""
+		}
+	},
+	"parameters": [
+		{
+			"name": "country",
+			"type": "request",
+			"value": "US",
+			"operation": "eq"
+		}
+	],
+	"postcode": [],
+	"metadata": "{\"name\":\"root\",\"type\":\"root\",\"children\":{}}",
+	"requestDate": "2014-11-28T14:45:09.688Z",
+	"appexpr": [],
+	"precode": [
+		{
+			"name": "chooseCityByCountry",
+			"code": "if ( $user.language == 'english' ) {\n    params[0].value = 'US';\n} if ( $user.language == 'french' ) {\n    params[0].value = 'France';\n}"
+		}
+	],
+	"connector": "http",
+	"lock": {
+		"status": "unlocked"
+	},
+	"selector": ":root",
+	"update_comment": "",
+	"visibility": "visible",
+	"versioning": {
+		"my_dfx_db": {
+			"last_action": "1424853185",
+			"status": "committed",
+			"user": "admin"
+		}
+	}
+}

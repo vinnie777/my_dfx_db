@@ -1,0 +1,59 @@
+{
+	"_id": "54218cc5188a415c2e30303b",
+	"selector": ":root",
+	"update_comment": "",
+	"ownerId": "",
+	"persistence": "none",
+	"settings": {
+		"postrequestbody": {
+			"id": "",
+			"name": "",
+			"stage": "",
+			"version": "",
+			"flag": ""
+		},
+		"authentication": "none",
+		"auth_password": "",
+		"typerequest": "HTTP_POST",
+		"urlrandom": "0",
+		"auth_userid": "",
+		"url": "http://localhost:3000/dbdriver/mysql/update/taraski/team",
+		"dbdriver": "mysql",
+		"dbnames": {
+			"database": "taraski",
+			"collection": "team"
+		}
+	},
+	"appexpr": [],
+	"format": "json",
+	"dependency": "",
+	"category": "cat7",
+	"description": "",
+	"name": "qExternalDbUpdate",
+	"connector": "http",
+	"requestDate": "2014-09-23T15:07:49.198Z",
+	"parameters": [],
+	"metadata": {
+		"name": "root",
+		"type": "root",
+		"children": {}
+	},
+	"source": "db",
+	"visibility": "visible",
+	"lock": {
+		"status": "unlocked"
+	},
+	"precode": [],
+	"postcode": [],
+	"service": {
+		"name": "",
+		"method": ""
+	},
+	"versioning": {
+		"my_dfx_db": {
+			"last_action": "1424853185",
+			"status": "committed",
+			"user": "admin"
+		}
+	}
+}
