@@ -1,0 +1,18 @@
+{
+	"tenant": "t1",
+	"login": "john",
+	"roles": {
+		"list": [
+			"guest"
+		],
+		"default": "guest"
+	},
+	"rights": [],
+	"email": "",
+	"type": "",
+	"lastName": "",
+	"firstName": "",
+	"kind": "application",
+	"_id": "54edb48d2a6f034216b8c5a0",
+	"pass": "123456"
+}
