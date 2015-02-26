@@ -1,0 +1,22 @@
+{
+	"_id": "54ef0ae165bf71574f237e2d",
+	"name": "images",
+	"description": "",
+	"items": [
+		{
+			"path": "avatar.jpeg",
+			"type": "Image",
+			"size": "<span data-dz-size=\"\"><strong>2.8</strong> KB</span>"
+		},
+		{
+			"path": "avatar.php.png",
+			"type": "Image",
+			"size": "<span data-dz-size=\"\"><strong>1.1</strong> KB</span>"
+		},
+		{
+			"path": "images.jpg",
+			"type": "Image",
+			"size": "<span data-dz-size=\"\"><strong>8.2</strong> KB</span>"
+		}
+	]
+}
