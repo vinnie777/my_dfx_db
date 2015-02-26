@@ -1,0 +1,73 @@
+{
+	"_id": "54edd0c6c7d12c8423152381",
+	"name": "app_to_export",
+	"ownerId": "",
+	"requestDate": "",
+	"title": "",
+	"applicationContext": [
+		{
+			"properties": [
+				{
+					"possibleValues": [],
+					"name": "selectedItem",
+					"value": ""
+				}
+			],
+			"object": "menu"
+		}
+	],
+	"github": {
+		"token": "",
+		"username": "",
+		"repository": ""
+	},
+	"phonegap": {
+		"token": "",
+		"applicationId": ""
+	},
+	"requiredLibraries": [],
+	"requiredStylesheets": [
+		{
+			"name": "_gc"
+		},
+		{
+			"name": "_ext"
+		}
+	],
+	"screenflow": [
+		{
+			"name": "Guest",
+			"left": "85",
+			"connections": [
+				{
+					"assertions": [],
+					"name": "Home"
+				}
+			],
+			"type": "http_guest",
+			"top": "150"
+		},
+		{
+			"name": "Home",
+			"left": "330",
+			"connections": [],
+			"type": "screen",
+			"top": "165"
+		}
+	],
+	"start": "Home",
+	"visibility": "visible",
+	"creationDate": "2015-02-25T13:40:22.721Z",
+	"active": true,
+	"platform": "web",
+	"personalization": {
+		"template": "Standard"
+	},
+	"versioning": {
+		"my_dfx_db": {
+			"last_action": "1424953104",
+			"status": "committed",
+			"user": "admin"
+		}
+	}
+}
