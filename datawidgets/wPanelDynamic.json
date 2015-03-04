@@ -11,7 +11,7 @@
 	"src_styles": ".twitter-tweet {\r\n  display: inline-block;\r\n  padding: 16px;\r\n  margin: 10px 0;\r\n  max-width: 468px;\r\n  border: #ddd 1px solid;\r\n  border-top-color: #eee;\r\n  border-bottom-color: #bbb;\r\n  border-radius: 5px;\r\n  box-shadow: 0 1px 3px rgba(0,0,0,0.15);\r\n  font: bold 14px/18px Helvetica, Arial, sans-serif;\r\n  color: #000;\r\n}\r\n \r\n.twitter-tweet span {\r\n  font: normal 18px/24px Georgia, \"Times New Roman\", Palatino, serif;\r\n  margin: 0 5px 10px 0;\r\n}\r\n \r\n.twitter-tweet a[href^=\"https://twitter.com\"] {\r\n  font-weight: normal;\r\n  color: #666;\r\n  font-size: 12px;\r\n}",
 	"versioning": {
 		"my_dfx_db": {
-			"last_action": "1425476307",
+			"last_action": "1425478120",
 			"status": "committed",
 			"user": "admin"
 		},

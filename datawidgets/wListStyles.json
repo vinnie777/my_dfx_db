@@ -11,7 +11,7 @@
 	"src_styles": ".list1 div {\r\n  width: 200px;\r\n}\r\n \r\n.list1 h2 {\r\n  font: 400 40px/1.5 Helvetica, Verdana, sans-serif;\r\n  margin: 0;\r\n  padding: 0;\r\n}\r\n \r\n.list1 ul {\r\n  list-style-type: none;\r\n  margin: 0;\r\n  padding: 0;\r\n}\r\n \r\n.list1 li {\r\n  font: 200 20px/1.5 Helvetica, Verdana, sans-serif;\r\n  border-bottom: 1px solid #ccc;\r\n}\r\n \r\n.list1 li:last-child {\r\n  border: none;\r\n}\r\n \r\n.list1 li a {\r\n  text-decoration: none;\r\n  color: #000;\r\n  display: block;\r\n  width: 200px;\r\n \r\n  -webkit-transition: font-size 0.3s ease, background-color 0.3s ease;\r\n  -moz-transition: font-size 0.3s ease, background-color 0.3s ease;\r\n  -o-transition: font-size 0.3s ease, background-color 0.3s ease;\r\n  -ms-transition: font-size 0.3s ease, background-color 0.3s ease;\r\n  transition: font-size 0.3s ease, background-color 0.3s ease;\r\n}\r\n \r\n.list1 li :hover {\r\n  font-size: 30px;\r\n  background: #f6f6f6;\r\n}\r\n\r\n.list2 div {\r\n  width: 900px;\r\n  margin: 0 auto;\r\n  overflow: auto;\r\n}\r\n \r\n.list2 ul {\r\n  list-style-type: none;\r\n}\r\n \r\n.list2 li img {\r\n  float: left;\r\n  margin: 10px;\r\n  border: 5px solid #fff;\r\n \r\n  -webkit-transition: box-shadow 0.5s ease;\r\n  -moz-transition: box-shadow 0.5s ease;\r\n  -o-transition: box-shadow 0.5s ease;\r\n  -ms-transition: box-shadow 0.5s ease;\r\n  transition: box-shadow 0.5s ease;\r\n}\r\n \r\n.list2 li img:hover {\r\n  -webkit-box-shadow: 0px 0px 7px rgba(255,255,255,0.9);\r\n  box-shadow: 0px 0px 7px rgba(255,255,255,0.9);\r\n}",
 	"versioning": {
 		"my_dfx_db": {
-			"last_action": "1425476307",
+			"last_action": "1425478120",
 			"status": "committed",
 			"user": "admin"
 		},

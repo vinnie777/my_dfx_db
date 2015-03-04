@@ -10,7 +10,7 @@
 	"src_script": "// this line should not be removed\r\nvar wMik_Chart = angular.module(\"wMik_Chart\",[]);\r\n\r\nwMik_Chart.controller( \"wMik_ChartController\", function( $scope ) {\n    $scope.statistics = {};\n\n    $scope.statistics.series = [\n        \"Sales\",\n        \"Income\",\n        \"Expense\"\n    ];\n    $scope.statistics.data = [\n        {\n            \"x\": \"Laptops\",\n            \"y\": [\n                100,\n                500,\n                210\n            ]\n        },\n        {\n            \"x\": \"Desktops\",\n            \"y\": [\n                300,\n                100,\n                100\n            ]\n        },\n        {\n            \"x\": \"Mobiles\",\n            \"y\": [\n                351,\n                150,\n                78\n            ]\n        },\n        {\n            \"x\": \"Tablets\",\n            \"y\": [\n                54,\n                580,\n                879\n            ]\n        }\n    ];\n});\n",
 	"versioning": {
 		"my_dfx_db": {
-			"last_action": "1425476307",
+			"last_action": "1425478120",
 			"status": "committed",
 			"user": "admin"
 		},
