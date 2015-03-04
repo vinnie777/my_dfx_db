@@ -1,0 +1,15 @@
+{
+	"_id": "54bf7f5ce919d2823dac0c5c",
+	"title": "Home",
+	"name": "Home",
+	"requestDate": "2015-02-04T07:31:41.876Z",
+	"ownerId": "",
+	"application": "mik_app",
+	"parentname": "",
+	"order": "0",
+	"icon": "home",
+	"action": {
+		"type": "screen",
+		"value": "Home"
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"_id": "54e60560c3a184786ba88058",
+	"title": "BPM Dashboard",
+	"name": "Dashboard",
+	"requestDate": "2015-02-20T16:40:54.258Z",
+	"ownerId": "",
+	"application": "EnterpriseApps",
+	"parentname": "",
+	"order": "1",
+	"icon": "dashboard",
+	"action": {
+		"type": "screen",
+		"value": "sDashboard"
+	}
+}

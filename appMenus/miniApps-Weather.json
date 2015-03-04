@@ -1,0 +1,15 @@
+{
+	"_id": "54e6c5d7c3a184786ba8809a",
+	"title": "Weather Forecast",
+	"name": "Weather",
+	"requestDate": "2015-02-20T05:28:07.698Z",
+	"ownerId": "",
+	"application": "miniApps",
+	"parentname": "Cloud",
+	"order": "4",
+	"icon": "",
+	"action": {
+		"type": "screen",
+		"value": "sWeather"
+	}
+}

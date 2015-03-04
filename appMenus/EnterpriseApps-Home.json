@@ -1,0 +1,15 @@
+{
+	"_id": "54e3e963c3a184786ba87f9b",
+	"title": "Home",
+	"name": "Home",
+	"requestDate": "2015-02-20T16:40:46.139Z",
+	"ownerId": "",
+	"application": "EnterpriseApps",
+	"parentname": "",
+	"order": "0",
+	"icon": "home",
+	"action": {
+		"type": "screen",
+		"value": "Home"
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"_id": "54e629c1c3a184786ba88069",
+	"title": "Personality Insights",
+	"name": "WatsonPI",
+	"requestDate": "2015-02-19T19:24:12.579Z",
+	"ownerId": "",
+	"application": "miniApps",
+	"parentname": "Watson",
+	"order": "3",
+	"icon": "",
+	"action": {
+		"type": "screen",
+		"value": "sWatsonPI"
+	}
+}

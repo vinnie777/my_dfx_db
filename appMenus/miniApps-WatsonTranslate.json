@@ -1,0 +1,15 @@
+{
+	"_id": "54e51b9dc3a184786ba88005",
+	"title": "Translation service",
+	"name": "WatsonTranslate",
+	"requestDate": "2015-02-19T19:23:45.101Z",
+	"ownerId": "",
+	"application": "miniApps",
+	"parentname": "Watson",
+	"order": "1",
+	"icon": "",
+	"action": {
+		"type": "screen",
+		"value": "sWatsonTranslate"
+	}
+}

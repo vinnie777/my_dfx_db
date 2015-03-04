@@ -1,0 +1,15 @@
+{
+	"_id": "54e4edf4c3a184786ba87fe1",
+	"title": "Home",
+	"name": "Home",
+	"requestDate": "2015-02-18T19:54:28.940Z",
+	"ownerId": "demo",
+	"application": "miniApps",
+	"parentname": "",
+	"order": null,
+	"icon": "home",
+	"action": {
+		"type": "screen",
+		"value": "Home"
+	}
+}

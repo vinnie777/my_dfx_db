@@ -1,0 +1,15 @@
+{
+	"_id": "54e4ef0fc3a184786ba87fe9",
+	"title": "Layout two",
+	"name": "layout2",
+	"requestDate": "2015-02-18T19:59:27.875Z",
+	"ownerId": "",
+	"application": "miniApps",
+	"parentname": "Layouts",
+	"order": "1",
+	"icon": "",
+	"action": {
+		"type": "screen",
+		"value": "sLayout2"
+	}
+}
