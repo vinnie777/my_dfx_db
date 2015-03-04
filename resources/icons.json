@@ -1,0 +1,107 @@
+{
+	"_id": "54de30c15522950b094a8866",
+	"name": "icons",
+	"description": "",
+	"items": [
+		{
+			"path": "alertBPM.png",
+			"type": "Image",
+			"size": "<strong>3</strong> KB"
+		},
+		{
+			"path": "alertManageSubscriber.png",
+			"type": "Image",
+			"size": "<strong>0.5</strong> KB"
+		},
+		{
+			"path": "alertReadEmail.png",
+			"type": "Image",
+			"size": "<strong>0.5</strong> KB"
+		},
+		{
+			"path": "alertViewClaim.png",
+			"type": "Image",
+			"size": "<strong>3</strong> KB"
+		},
+		{
+			"path": "High.png",
+			"type": "Image",
+			"size": "<strong>0.5</strong> KB"
+		},
+		{
+			"path": "Highest.png",
+			"type": "Image",
+			"size": "<strong>0.5</strong> KB"
+		},
+		{
+			"path": "Low.png",
+			"type": "Image",
+			"size": "<strong>0.5</strong> KB"
+		},
+		{
+			"path": "Lowest.png",
+			"type": "Image",
+			"size": "<strong>0.4</strong> KB"
+		},
+		{
+			"path": "Normal.png",
+			"type": "Image",
+			"size": "<strong>0.5</strong> KB"
+		},
+		{
+			"path": "VeryHigh.png",
+			"type": "Image",
+			"size": "<strong>0.5</strong> KB"
+		},
+		{
+			"path": "VeryLow.png",
+			"type": "Image",
+			"size": "<strong>0.4</strong> KB"
+		},
+		{
+			"path": "220-point_gray.png",
+			"type": "Image",
+			"size": "<strong>0.5</strong> KB"
+		},
+		{
+			"path": "221-point_red.png",
+			"type": "Image",
+			"size": "<strong>0.6</strong> KB"
+		},
+		{
+			"path": "222-point_green.png",
+			"type": "Image",
+			"size": "<strong>0.6</strong> KB"
+		},
+		{
+			"path": "223-point_yellow.png",
+			"type": "Image",
+			"size": "<strong>0.6</strong> KB"
+		},
+		{
+			"path": "224-point_blue.png",
+			"type": "Image",
+			"size": "<strong>0.6</strong> KB"
+		},
+		{
+			"path": "225-point_violet.png",
+			"type": "Image",
+			"size": "<strong>0.6</strong> KB"
+		},
+		{
+			"path": "LargeHigh.png",
+			"type": "Image",
+			"size": "<strong>38.2</strong> KB"
+		},
+		{
+			"path": "LargeLow.png",
+			"type": "Image",
+			"size": "<strong>47.8</strong> KB"
+		},
+		{
+			"path": "LargeNormal.png",
+			"type": "Image",
+			"size": "<strong>41.6</strong> KB"
+		}
+	]
+}

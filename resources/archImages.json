@@ -1,0 +1,32 @@
+{
+	"_id": "54e7546e5522950b094a8867",
+	"name": "archImages",
+	"description": "",
+	"items": [
+		{
+			"path": "DFX1.jpg",
+			"type": "Image",
+			"size": "<strong>0.1</strong> MB"
+		},
+		{
+			"path": "DFX2.jpg",
+			"type": "Image",
+			"size": "<strong>0.1</strong> MB"
+		},
+		{
+			"path": "DFX3.jpg",
+			"type": "Image",
+			"size": "<strong>77.4</strong> KB"
+		},
+		{
+			"path": "DFX4.jpg",
+			"type": "Image",
+			"size": "<strong>0.2</strong> MB"
+		},
+		{
+			"path": "DFX5.jpg",
+			"type": "Image",
+			"size": "<strong>73.2</strong> KB"
+		}
+	]
+}

@@ -1,0 +1,62 @@
+{
+	"_id": "54de30945522950b094a8864",
+	"name": "javascript",
+	"description": "",
+	"items": [
+		{
+			"path": "toastr.less",
+			"type": "0",
+			"size": "<strong>6.5</strong> KB"
+		},
+		{
+			"path": "toastr.min.css",
+			"type": "CSS",
+			"size": "<strong>5.6</strong> KB"
+		},
+		{
+			"path": "toastr.min.js",
+			"type": "JavaScript",
+			"size": "<strong>4.2</strong> KB"
+		},
+		{
+			"path": "toastr.scss",
+			"type": "0",
+			"size": "<strong>6.7</strong> KB"
+		},
+		{
+			"path": "typeahead.bundle.js",
+			"type": "JavaScript",
+			"size": "<strong>69.7</strong> KB"
+		},
+		{
+			"path": ".bower.json",
+			"type": "0",
+			"size": "<strong>0.5</strong> KB"
+		},
+		{
+			"path": "bower.json",
+			"type": "0",
+			"size": "<strong>0.1</strong> KB"
+		},
+		{
+			"path": "externallib.js",
+			"type": "JavaScript",
+			"size": "<strong>0.1</strong> KB"
+		},
+		{
+			"path": "googleMaps.js",
+			"type": "JavaScript",
+			"size": "<strong>4.2</strong> KB"
+		},
+		{
+			"path": "toastr.css",
+			"type": "CSS",
+			"size": "<strong>6.7</strong> KB"
+		},
+		{
+			"path": "toastr.js",
+			"type": "JavaScript",
+			"size": "<strong>13.6</strong> KB"
+		}
+	]
+}
