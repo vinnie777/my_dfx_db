@@ -1,0 +1,80 @@
+{
+	"_id": "54b70e384c82af2017cb8950",
+	"selector": ":root",
+	"update_comment": "",
+	"ownerId": "",
+	"persistence": "none",
+	"settings": {
+		"postrequestbody": {
+			"contentItems": [
+				{
+					"id": "xxx",
+					"userid": "abc",
+					"sourceid": "freetext",
+					"contenttype": "text/plain",
+					"language": "en",
+					"content": "hello world,  a fun guy one two three four five six seven eight nine ten one two three four five six seven eight nine ten one two three four five six seven eight nine ten one two three four five six seven eight nine ten one two three four five six seven eight nine ten one two three four five six seven eight nine ten one two three four five six seven eight nine ten one two three four five six seven eight nine ten one two three four five six seven eight nine ten one two three four five six seven eight nine ten one two three four five six seven eight nine ten one two three four five six seven eight nine ten one two three four five six seven eight nine ten "
+				}
+			]
+		},
+		"authentication": "IBMWatson",
+		"auth_password": "",
+		"typerequest": "HTTP_POST",
+		"urlrandom": "0",
+		"auth_userid": "",
+		"url": "https://gateway.watsonplatform.net/systemu/service/api/v2/profile",
+		"dbdriver": "",
+		"dbnames": {
+			"database": "",
+			"collection": ""
+		}
+	},
+	"appexpr": [],
+	"format": "json",
+	"dependency": "",
+	"category": "miniApps",
+	"description": "",
+	"name": "qWatsonUserModeling",
+	"connector": "http",
+	"requestDate": "2015-02-18T22:28:38.327Z",
+	"parameters": [],
+	"metadata": "{\"name\":\"root\",\"type\":\"root\",\"children\":{\"tree\":{\"name\":\"tree\",\"type\":\"String\",\"options\":{\"properties\":{},\"gcontrols\":[{\"name\":\"SimpleText\",\"perspective\":\"Default\",\"type\":\"TextField\",\"attributes\":{\"label\":\"tree\"},\"styles\":{}},{\"name\":\"SimpleEdit\",\"perspective\":\"Edit\",\"type\":\"TextField\",\"attributes\":{\"label\":\"tree\"},\"styles\":{}}]},\"children\":{}},\"id\":{\"name\":\"id\",\"type\":\"String\",\"options\":{\"properties\":{},\"gcontrols\":[{\"name\":\"SimpleText\",\"perspective\":\"Default\",\"type\":\"TextField\",\"attributes\":{\"label\":\"id\"},\"styles\":{}},{\"name\":\"SimpleEdit\",\"perspective\":\"Edit\",\"type\":\"TextField\",\"attributes\":{\"label\":\"id\"},\"styles\":{}}]},\"children\":{}},\"source\":{\"name\":\"source\",\"type\":\"String\",\"options\":{\"properties\":{},\"gcontrols\":[{\"name\":\"SimpleText\",\"perspective\":\"Default\",\"type\":\"TextField\",\"attributes\":{\"label\":\"source\"},\"styles\":{}},{\"name\":\"SimpleEdit\",\"perspective\":\"Edit\",\"type\":\"TextField\",\"attributes\":{\"label\":\"source\"},\"styles\":{}}]},\"children\":{}},\"word_count_message\":{\"name\":\"word_count_message\",\"type\":\"String\",\"options\":{\"properties\":{},\"gcontrols\":[{\"name\":\"SimpleText\",\"perspective\":\"Default\",\"type\":\"TextField\",\"attributes\":{\"label\":\"word_count_message\"},\"styles\":{}},{\"name\":\"SimpleEdit\",\"perspective\":\"Edit\",\"type\":\"TextField\",\"attributes\":{\"label\":\"word_count_message\"},\"styles\":{}}]},\"children\":{}},\"word_count\":{\"name\":\"word_count\",\"type\":\"Number\",\"options\":{\"properties\":{},\"gcontrols\":[{\"name\":\"SimpleText\",\"perspective\":\"Default\",\"type\":\"TextField\",\"attributes\":{\"label\":\"word_count\"},\"styles\":{}},{\"name\":\"SimpleEdit\",\"perspective\":\"Edit\",\"type\":\"TextField\",\"attributes\":{\"label\":\"word_count\"},\"styles\":{}}]},\"children\":{}}}}",
+	"source": "ext",
+	"visibility": "visible",
+	"lock": {
+		"status": "unlocked"
+	},
+	"precode": [],
+	"postcode": [
+		{
+			"name": "replace100",
+			"code": ""
+		}
+	],
+	"service": {
+		"name": "",
+		"method": ""
+	},
+	"versioning": {
+		"my_dfx_db": {
+			"last_action": "1425476300",
+			"status": "committed",
+			"user": "admin"
+		},
+		"SampleGallery": {
+			"last_action": "1424701856",
+			"status": "committed",
+			"user": "admin"
+		},
+		"dreamface2": {
+			"last_action": "1422542417",
+			"status": "committed",
+			"user": "admin"
+		},
+		"dreamface1": {
+			"status": "modified",
+			"user": "admin",
+			"last_action": "1424298518"
+		}
+	}
+}

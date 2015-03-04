@@ -1,0 +1,83 @@
+{
+	"_id": "545cffbe1373928808061d45",
+	"selector": ":root",
+	"update_comment": "",
+	"ownerId": "",
+	"persistence": "none",
+	"settings": {
+		"postrequestbody": "",
+		"authentication": "IBMWatson",
+		"auth_password": "",
+		"typerequest": "HTTP_POST",
+		"urlrandom": "0",
+		"auth_userid": "",
+		"url": "https://gateway.watsonplatform.net/laser/service/api/v1/txtlid/f0bc3780-94c3-43f8-8d9e-fabda0970cbd",
+		"dbdriver": "",
+		"dbnames": {
+			"database": "",
+			"collection": ""
+		}
+	},
+	"appexpr": [],
+	"format": "json",
+	"dependency": "",
+	"category": "Demo",
+	"description": "Call Watson language Identification Service",
+	"name": "qWatsonLanguage_Identification",
+	"connector": "http",
+	"requestDate": "2015-02-18T15:04:45.884Z",
+	"parameters": [
+		{
+			"name": "sid",
+			"type": "request",
+			"value": "lid-generic",
+			"operation": "eq"
+		},
+		{
+			"name": "txt",
+			"type": "request",
+			"value": "Bonjour",
+			"operation": "eq"
+		},
+		{
+			"name": "rt",
+			"type": "request",
+			"value": "json",
+			"operation": "eq"
+		}
+	],
+	"metadata": "{\"name\":\"root\",\"type\":\"root\",\"children\":{\"sts\":{\"name\":\"sts\",\"type\":\"String\",\"options\":{\"properties\":{},\"gcontrols\":[{\"name\":\"SimpleText\",\"perspective\":\"Default\",\"type\":\"TextField\",\"attributes\":{\"label\":\"sts\"},\"styles\":{}},{\"name\":\"SimpleEdit\",\"perspective\":\"Edit\",\"type\":\"TextField\",\"attributes\":{\"label\":\"sts\"},\"styles\":{}}]},\"children\":{}},\"lang\":{\"name\":\"lang\",\"type\":\"String\",\"options\":{\"properties\":{},\"gcontrols\":[{\"name\":\"SimpleText\",\"perspective\":\"Default\",\"type\":\"TextField\",\"attributes\":{\"label\":\"lang\"},\"styles\":{}},{\"name\":\"SimpleEdit\",\"perspective\":\"Edit\",\"type\":\"TextField\",\"attributes\":{\"label\":\"lang\"},\"styles\":{}}]},\"children\":{}}}}",
+	"source": "ext",
+	"visibility": "visible",
+	"lock": {
+		"status": "unlocked"
+	},
+	"precode": [],
+	"postcode": [],
+	"service": {
+		"name": "",
+		"method": ""
+	},
+	"versioning": {
+		"my_dfx_db": {
+			"last_action": "1425476300",
+			"status": "committed",
+			"user": "admin"
+		},
+		"SampleGallery": {
+			"last_action": "1424701856",
+			"status": "committed",
+			"user": "admin"
+		},
+		"dreamface1": {
+			"status": "deleted",
+			"user": "admin",
+			"last_action": "1424298311"
+		},
+		"dreamface3": {
+			"last_action": "1422543082",
+			"status": "committed",
+			"user": "admin"
+		}
+	}
+}

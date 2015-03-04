@@ -1,0 +1,71 @@
+{
+	"_id": "54860627f865d72b0b1dc352",
+	"selector": ":root",
+	"update_comment": "",
+	"ownerId": "",
+	"persistence": "none",
+	"settings": {
+		"postrequestbody": {
+			"Task": "",
+			"Priority": ""
+		},
+		"authentication": "none",
+		"auth_password": "",
+		"typerequest": "HTTP_POST",
+		"urlrandom": "0",
+		"auth_userid": "",
+		"url": "http://50.97.60.186:3001/database/put",
+		"dbdriver": "mongodb",
+		"dbnames": {
+			"database": "Demo",
+			"collection": "Todo"
+		}
+	},
+	"appexpr": [],
+	"format": "json",
+	"dependency": "",
+	"category": "Samples",
+	"description": "",
+	"name": "qAddNewTodo",
+	"connector": "http",
+	"requestDate": "2014-12-08T20:12:23.555Z",
+	"parameters": [],
+	"metadata": {
+		"name": "root",
+		"type": "root",
+		"children": {}
+	},
+	"source": "db",
+	"visibility": "visible",
+	"lock": {
+		"status": "unlocked"
+	},
+	"precode": [],
+	"postcode": [],
+	"service": {
+		"name": "",
+		"method": ""
+	},
+	"versioning": {
+		"my_dfx_db": {
+			"last_action": "1425476300",
+			"status": "committed",
+			"user": "admin"
+		},
+		"SampleGallery": {
+			"last_action": "1424701856",
+			"status": "committed",
+			"user": "admin"
+		},
+		"dreamface2": {
+			"last_action": "1422542417",
+			"status": "committed",
+			"user": "admin"
+		},
+		"dreamface1": {
+			"last_action": "1422532642",
+			"status": "committed",
+			"user": "admin"
+		}
+	}
+}

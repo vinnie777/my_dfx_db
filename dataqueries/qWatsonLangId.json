@@ -1,0 +1,77 @@
+{
+	"_id": "54e5113ac3a184786ba87ff9",
+	"name": "qWatsonLangId",
+	"ownerId": "",
+	"description": "Call Watson language Identification Service",
+	"category": "miniApps",
+	"service": {
+		"name": "",
+		"method": ""
+	},
+	"format": "json",
+	"persistence": "none",
+	"source": "ext",
+	"settings": {
+		"postrequestbody": "",
+		"authentication": "IBMWatson",
+		"auth_password": "",
+		"typerequest": "HTTP_POST",
+		"urlrandom": "0",
+		"auth_userid": "",
+		"url": "https://gateway.watsonplatform.net/laser/service/api/v1/txtlid/f0bc3780-94c3-43f8-8d9e-fabda0970cbd",
+		"dbdriver": "",
+		"dbnames": {
+			"database": "",
+			"collection": ""
+		}
+	},
+	"parameters": [
+		{
+			"name": "sid",
+			"type": "request",
+			"value": "lid-generic",
+			"operation": "eq"
+		},
+		{
+			"name": "txt",
+			"type": "request",
+			"value": "Bonjour",
+			"operation": "eq"
+		},
+		{
+			"name": "rt",
+			"type": "request",
+			"value": "json",
+			"operation": "eq"
+		}
+	],
+	"metadata": "{\"name\":\"root\",\"type\":\"root\",\"children\":{\"sts\":{\"name\":\"sts\",\"type\":\"String\",\"options\":{\"properties\":{},\"gcontrols\":[{\"name\":\"SimpleText\",\"perspective\":\"Default\",\"type\":\"TextField\",\"attributes\":{\"label\":\"sts\"},\"styles\":{}},{\"name\":\"SimpleEdit\",\"perspective\":\"Edit\",\"type\":\"TextField\",\"attributes\":{\"label\":\"sts\"},\"styles\":{}}]},\"children\":{}},\"lang\":{\"name\":\"lang\",\"type\":\"String\",\"options\":{\"properties\":{},\"gcontrols\":[{\"name\":\"SimpleText\",\"perspective\":\"Default\",\"type\":\"TextField\",\"attributes\":{\"label\":\"lang\"},\"styles\":{}},{\"name\":\"SimpleEdit\",\"perspective\":\"Edit\",\"type\":\"TextField\",\"attributes\":{\"label\":\"lang\"},\"styles\":{}}]},\"children\":{}}}}",
+	"requestDate": "2015-02-18T22:27:19.259Z",
+	"appexpr": [],
+	"precode": [],
+	"postcode": [],
+	"connector": "http",
+	"lock": {
+		"status": "unlocked"
+	},
+	"selector": ":root",
+	"update_comment": "",
+	"visibility": "visible",
+	"versioning": {
+		"my_dfx_db": {
+			"last_action": "1425476300",
+			"status": "committed",
+			"user": "admin"
+		},
+		"SampleGallery": {
+			"last_action": "1424701856",
+			"status": "committed",
+			"user": "admin"
+		},
+		"dreamface1": {
+			"status": "modified",
+			"user": "admin",
+			"last_action": "1424298439"
+		}
+	}
+}

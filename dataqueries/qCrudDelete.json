@@ -1,0 +1,76 @@
+{
+	"_id": "541b00532ff9c16c1e2cf863",
+	"appexpr": [],
+	"category": "Samples",
+	"connector": "http",
+	"dependency": "",
+	"description": "",
+	"format": "json",
+	"lock": {
+		"status": "unlocked"
+	},
+	"metadata": "{\"name\":\"root\",\"type\":\"root\",\"children\":{}}",
+	"name": "qCrudDelete",
+	"ownerId": "",
+	"parameters": [
+		{
+			"name": "CustomerId",
+			"type": "",
+			"value": "",
+			"operation": "eq"
+		}
+	],
+	"persistence": "none",
+	"postcode": [],
+	"precode": [],
+	"requestDate": "2015-02-20T13:57:20.775Z",
+	"selector": ":root",
+	"service": {
+		"name": "",
+		"method": ""
+	},
+	"settings": {
+		"postrequestbody": "",
+		"authentication": "none",
+		"auth_password": "",
+		"typerequest": "HTTP_POST",
+		"urlrandom": "0",
+		"auth_userid": "",
+		"url": "http://demos.market-interactive-clouds.com:3000/database/rm",
+		"dbdriver": "mongodb",
+		"dbnames": {
+			"database": "CrudTest",
+			"collection": "Customers"
+		}
+	},
+	"source": "db",
+	"update_comment": "",
+	"visibility": "visible",
+	"versioning": {
+		"my_dfx_db": {
+			"last_action": "1425476300",
+			"status": "committed",
+			"user": "admin"
+		},
+		"SampleGallery": {
+			"last_action": "1424701856",
+			"status": "committed",
+			"user": "admin"
+		},
+		"dreamface2": {
+			"last_action": "1422542417",
+			"status": "committed",
+			"user": "admin"
+		},
+		"dreamface1": {
+			"status": "modified",
+			"user": "admin",
+			"last_action": "1424440641"
+		},
+		"MyDfApp": {
+			"last_action": "1415041624",
+			"status": "modified",
+			"user": "Elias"
+		}
+	}
+}
