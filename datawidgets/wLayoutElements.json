@@ -11,7 +11,7 @@
 	"src_styles": ".PaleGoldenRod{background:PaleGoldenRod} \n.centerize{ text-align:center;}\n.Grey{background:#787878}\n.LightPink{background:#FF99FF;}\n.Violet{ background:#CC00FF}\n.LightBlue{  background:#00CCCC}\n.Pink{ background-color:#FF0066;}\n.Orange{ background:#FF3300}\n.Green{ background:OliveDrab }\n.Yellow{background:GoldenRod }\n.Violet{ background:#CC00FF}\n.NoPadding:{padding:0;}\n.Marginize{margin-bottom:5px;}\n.Square:{width:108px;}\n.SetHeight{height:108px;}\n\n.listcont {\n  width: 900px;\n  margin: 0 auto;\n  overflow: auto;\n}\n \n.listcont ul {\n  list-style-type: none;\n}\n \n.listcont li img {\n  float: left;\n  margin: 10px;\n  border: 5px solid #fff;\n \n  -webkit-transition: box-shadow 0.5s ease;\n  -moz-transition: box-shadow 0.5s ease;\n  -o-transition: box-shadow 0.5s ease;\n  -ms-transition: box-shadow 0.5s ease;\n  transition: box-shadow 0.5s ease;\n}\n \n.listcont li img:hover {\n  -webkit-box-shadow: 0px 0px 7px rgba(255,255,255,0.9);\n  box-shadow: 0px 0px 7px rgba(255,255,255,0.9);\n}\n",
 	"versioning": {
 		"my_dfx_db": {
-			"last_action": "1425478120",
+			"last_action": "1425481913",
 			"status": "committed",
 			"user": "admin"
 		},

@@ -10,7 +10,7 @@
 	"src_script": "// this line should not be removed\r\nvar wTemp2 = angular.module(\"wTemp2\",[]);\r\n\r\nwTemp2.controller( \"wTemp2Controller\", function( $scope ) {\n\t\n});\n",
 	"versioning": {
 		"my_dfx_db": {
-			"last_action": "1425478120",
+			"last_action": "1425481913",
 			"status": "committed",
 			"user": "admin"
 		},

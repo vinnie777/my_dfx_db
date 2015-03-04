@@ -11,7 +11,7 @@
 	"src_styles": ".testtest{height:50%;}\n#map_canvas img{max-width:none!important;background:none!important}",
 	"versioning": {
 		"my_dfx_db": {
-			"last_action": "1425478120",
+			"last_action": "1425481913",
 			"status": "committed",
 			"user": "admin"
 		},

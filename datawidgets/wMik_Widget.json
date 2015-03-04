@@ -10,7 +10,7 @@
 	"src_script": "// this line should not be removed\r\nvar wMik_Widget = angular.module(\"wMik_Widget\",[]);\r\n\r\nwMik_Widget.controller( \"wMik_WidgetController\", function( $scope ) {\n        $scope.countries = {};\n        $scope.coutry_list = [\n            {\"name\":\"Canada\", \"value\":\"CN\"},\n            {\"name\":\"France\", \"value\":\"FR\"},\n            {\"name\":\"United Kingdom\", \"value\":\"U.K\"},\n            {\"name\":\"United States\", \"value\":\"USA\"}\n        ];\n});\n",
 	"versioning": {
 		"my_dfx_db": {
-			"last_action": "1425478120",
+			"last_action": "1425481913",
 			"status": "committed",
 			"user": "admin"
 		},
