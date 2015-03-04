@@ -1,0 +1,32 @@
+{
+	"_id": "54e53e5fc3a184786ba8801e",
+	"title": "Twitter Sample Screen",
+	"name": "sTwitter",
+	"requestDate": "2015-02-19T19:24:20.387Z",
+	"ownerId": "",
+	"application": "miniApps",
+	"visibility": "visible",
+	"layout": {
+		"fixedlayout": "no",
+		"widgetspacing": "yes",
+		"width": "100%",
+		"backgroundcolor": "white",
+		"rows": [
+			{
+				"columns": [
+					{
+						"width": "12",
+						"widgets": [
+							{
+								"name": "wTwitterFeeds",
+								"id": "5540"
+							}
+						]
+					}
+				],
+				"id": ""
+			}
+		]
+	},
+	"category": ""
+}

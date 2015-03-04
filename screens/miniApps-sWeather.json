@@ -1,0 +1,32 @@
+{
+	"_id": "54e6c5aac3a184786ba88099",
+	"title": "Weather Forecast",
+	"name": "sWeather",
+	"requestDate": "2015-02-20T05:28:07.694Z",
+	"ownerId": "",
+	"application": "miniApps",
+	"visibility": "visible",
+	"layout": {
+		"fixedlayout": "no",
+		"widgetspacing": "yes",
+		"width": "100%",
+		"backgroundcolor": "white",
+		"rows": [
+			{
+				"columns": [
+					{
+						"width": "12",
+						"widgets": [
+							{
+								"name": "wWeather",
+								"id": "39879"
+							}
+						]
+					}
+				],
+				"id": ""
+			}
+		]
+	},
+	"category": ""
+}

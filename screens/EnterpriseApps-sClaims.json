@@ -1,0 +1,32 @@
+{
+	"_id": "54e3efcec3a184786ba87fa4",
+	"title": "Manage Medical Claims",
+	"name": "sClaims",
+	"requestDate": "2015-02-19T15:49:27.361Z",
+	"ownerId": "",
+	"application": "EnterpriseApps",
+	"visibility": "visible",
+	"layout": {
+		"fixedlayout": "no",
+		"widgetspacing": "yes",
+		"width": "100%",
+		"backgroundcolor": "white",
+		"rows": [
+			{
+				"columns": [
+					{
+						"width": "12",
+						"widgets": [
+							{
+								"name": "wcClaimCenter",
+								"id": "60612"
+							}
+						]
+					}
+				],
+				"id": ""
+			}
+		]
+	},
+	"category": ""
+}

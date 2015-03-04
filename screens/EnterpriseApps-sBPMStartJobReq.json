@@ -1,0 +1,32 @@
+{
+	"_id": "54e3efb9c3a184786ba87fa3",
+	"title": "Start New Job Requisition",
+	"name": "sBPMStartJobReq",
+	"requestDate": "2015-02-19T15:49:18.275Z",
+	"ownerId": "",
+	"application": "EnterpriseApps",
+	"visibility": "visible",
+	"layout": {
+		"fixedlayout": "no",
+		"widgetspacing": "yes",
+		"width": "100%",
+		"backgroundcolor": "white",
+		"rows": [
+			{
+				"columns": [
+					{
+						"width": "12",
+						"widgets": [
+							{
+								"name": "wBPMStartJobReq",
+								"id": "94328"
+							}
+						]
+					}
+				],
+				"id": ""
+			}
+		]
+	},
+	"category": ""
+}

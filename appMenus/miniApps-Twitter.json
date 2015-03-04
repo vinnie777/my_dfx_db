@@ -1,0 +1,15 @@
+{
+	"_id": "54e53ea2c3a184786ba8801f",
+	"title": "Twitter Feeds",
+	"name": "Twitter",
+	"requestDate": "2015-02-19T19:24:20.390Z",
+	"ownerId": "",
+	"application": "miniApps",
+	"parentname": "Cloud",
+	"order": "1",
+	"icon": "",
+	"action": {
+		"type": "screen",
+		"value": "sTwitter"
+	}
+}

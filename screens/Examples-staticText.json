@@ -1,0 +1,32 @@
+{
+	"_id": "54bac66a4c82af2017cb89ca",
+	"title": "staticText",
+	"name": "staticText",
+	"requestDate": "2015-02-02T10:43:44.588Z",
+	"ownerId": "",
+	"application": "Examples",
+	"visibility": "visible",
+	"layout": {
+		"fixedlayout": "no",
+		"widgetspacing": "yes",
+		"width": "100%",
+		"backgroundcolor": "white",
+		"rows": [
+			{
+				"columns": [
+					{
+						"width": "12",
+						"widgets": [
+							{
+								"name": "wTypoGraphy",
+								"id": "20951"
+							}
+						]
+					}
+				],
+				"id": ""
+			}
+		]
+	},
+	"category": ""
+}

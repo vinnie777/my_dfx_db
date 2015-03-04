@@ -1,0 +1,31 @@
+{
+	"_id": "5491e32e931e0efa0a53f64d",
+	"title": "Knob",
+	"name": "Knob",
+	"requestDate": "2015-02-18T21:26:51.256Z",
+	"ownerId": "",
+	"application": "Examples",
+	"visibility": "visible",
+	"layout": {
+		"fixedlayout": "no",
+		"widgetspacing": "yes",
+		"width": "100%",
+		"backgroundcolor": "white",
+		"rows": [
+			{
+				"columns": [
+					{
+						"width": "12",
+						"widgets": [
+							{
+								"name": "wKnob",
+								"id": "87107"
+							}
+						]
+					}
+				],
+				"id": ""
+			}
+		]
+	}
+}

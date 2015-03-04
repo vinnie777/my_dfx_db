@@ -1,0 +1,31 @@
+{
+	"_id": "54760298d261e57934a5c544",
+	"title": "BasicComboBox",
+	"name": "BasicComboBox",
+	"requestDate": "2015-02-19T04:26:56.331Z",
+	"ownerId": "",
+	"application": "Examples",
+	"visibility": "visible",
+	"layout": {
+		"fixedlayout": "no",
+		"widgetspacing": "yes",
+		"width": "100%",
+		"backgroundcolor": "white",
+		"rows": [
+			{
+				"columns": [
+					{
+						"width": "12",
+						"widgets": [
+							{
+								"name": "wComboBox",
+								"id": "50703"
+							}
+						]
+					}
+				],
+				"id": ""
+			}
+		]
+	}
+}

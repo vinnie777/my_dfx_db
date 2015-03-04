@@ -1,0 +1,27 @@
+{
+	"_id": "547650fbd261e57934a5c58c",
+	"title": "DynamicList",
+	"name": "DynamicList",
+	"requestDate": "2015-02-02T10:47:06.532Z",
+	"ownerId": "",
+	"application": "Examples",
+	"visibility": "visible",
+	"layout": {
+		"fixedlayout": "no",
+		"widgetspacing": "yes",
+		"width": "100%",
+		"backgroundcolor": "white",
+		"rows": [
+			{
+				"columns": [
+					{
+						"width": "12",
+						"widgets": []
+					}
+				],
+				"id": ""
+			}
+		]
+	},
+	"category": ""
+}

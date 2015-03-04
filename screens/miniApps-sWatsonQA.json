@@ -1,0 +1,32 @@
+{
+	"_id": "54e51b1cc3a184786ba88000",
+	"title": "Call IBM Watson QA service on Bluemix",
+	"name": "sWatsonQA",
+	"requestDate": "2015-02-19T19:23:20.412Z",
+	"ownerId": "",
+	"application": "miniApps",
+	"visibility": "visible",
+	"layout": {
+		"fixedlayout": "no",
+		"widgetspacing": "yes",
+		"width": "100%",
+		"backgroundcolor": "white",
+		"rows": [
+			{
+				"columns": [
+					{
+						"width": "12",
+						"widgets": [
+							{
+								"name": "wWatsonQA",
+								"id": "81488"
+							}
+						]
+					}
+				],
+				"id": ""
+			}
+		]
+	},
+	"category": ""
+}

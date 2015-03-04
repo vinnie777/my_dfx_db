@@ -1,0 +1,32 @@
+{
+	"_id": "54e4ee14c3a184786ba87fe2",
+	"title": "Demonstrating some layout capabilities in DF",
+	"name": "sLayout1",
+	"requestDate": "2015-02-19T18:19:04.624Z",
+	"ownerId": "",
+	"application": "miniApps",
+	"visibility": "visible",
+	"layout": {
+		"fixedlayout": "no",
+		"widgetspacing": "yes",
+		"width": "100%",
+		"backgroundcolor": "white",
+		"rows": [
+			{
+				"columns": [
+					{
+						"width": "12",
+						"widgets": [
+							{
+								"name": "wModernLayout",
+								"id": "28135"
+							}
+						]
+					}
+				],
+				"id": ""
+			}
+		]
+	},
+	"category": ""
+}

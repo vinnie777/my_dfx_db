@@ -1,0 +1,15 @@
+{
+	"_id": "54978ecc931e0efa0a53f6af",
+	"title": "Mini Apps",
+	"name": "Simple Apps",
+	"requestDate": "2015-02-18T00:06:22.942Z",
+	"ownerId": "",
+	"application": "Examples",
+	"parentname": "",
+	"order": "0",
+	"icon": "briefcase",
+	"action": {
+		"type": "no_action",
+		"value": ""
+	}
+}

@@ -1,0 +1,32 @@
+{
+	"_id": "54e6058dc3a184786ba88059",
+	"title": "BPM Dashboard",
+	"name": "sDashboard",
+	"requestDate": "2015-02-20T16:40:54.253Z",
+	"ownerId": "",
+	"application": "EnterpriseApps",
+	"visibility": "visible",
+	"layout": {
+		"fixedlayout": "no",
+		"widgetspacing": "yes",
+		"width": "100%",
+		"backgroundcolor": "white",
+		"rows": [
+			{
+				"columns": [
+					{
+						"width": "12",
+						"widgets": [
+							{
+								"name": "wBPMDashboard",
+								"id": "1666"
+							}
+						]
+					}
+				],
+				"id": ""
+			}
+		]
+	},
+	"category": ""
+}

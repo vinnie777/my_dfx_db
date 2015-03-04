@@ -1,0 +1,32 @@
+{
+	"_id": "54e62984c3a184786ba88068",
+	"title": "Call IBM Watson Personality Insights service on Bluemix",
+	"name": "sWatsonPI",
+	"requestDate": "2015-02-19T19:24:12.575Z",
+	"ownerId": "",
+	"application": "miniApps",
+	"visibility": "visible",
+	"layout": {
+		"fixedlayout": "no",
+		"widgetspacing": "yes",
+		"width": "100%",
+		"backgroundcolor": "white",
+		"rows": [
+			{
+				"columns": [
+					{
+						"width": "12",
+						"widgets": [
+							{
+								"name": "wWatsonPI",
+								"id": "66242"
+							}
+						]
+					}
+				],
+				"id": ""
+			}
+		]
+	},
+	"category": ""
+}

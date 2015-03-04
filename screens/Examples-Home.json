@@ -1,0 +1,31 @@
+{
+	"_id": "54cf714a94b9b72b58500fb8",
+	"title": "Home",
+	"name": "Home",
+	"requestDate": "2015-02-02T12:45:09.366Z",
+	"ownerId": "",
+	"application": "Examples",
+	"visibility": "visible",
+	"layout": {
+		"fixedlayout": "no",
+		"widgetspacing": "yes",
+		"width": "100%",
+		"backgroundcolor": "white",
+		"rows": [
+			{
+				"columns": [
+					{
+						"width": "12",
+						"widgets": [
+							{
+								"name": "wDFHomePage",
+								"id": "57167"
+							}
+						]
+					}
+				],
+				"id": ""
+			}
+		]
+	}
+}

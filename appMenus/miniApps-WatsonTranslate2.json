@@ -1,0 +1,15 @@
+{
+	"_id": "54e51ba7c3a184786ba88006",
+	"title": "Detect Lang & Translate",
+	"name": "WatsonTranslate2",
+	"requestDate": "2015-02-19T19:24:01.411Z",
+	"ownerId": "",
+	"application": "miniApps",
+	"parentname": "Watson",
+	"order": "2",
+	"icon": "",
+	"action": {
+		"type": "screen",
+		"value": "sWatsonTranslate2"
+	}
+}

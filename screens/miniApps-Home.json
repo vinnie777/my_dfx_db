@@ -1,0 +1,32 @@
+{
+	"_id": "54e4edf4c3a184786ba87fe0",
+	"title": "Home",
+	"name": "Home",
+	"requestDate": "2015-02-19T18:18:39.410Z",
+	"ownerId": "demo",
+	"application": "miniApps",
+	"visibility": "visible",
+	"layout": {
+		"fixedlayout": "no",
+		"widgetspacing": "yes",
+		"width": "100%",
+		"backgroundcolor": "white",
+		"rows": [
+			{
+				"columns": [
+					{
+						"width": "12",
+						"widgets": [
+							{
+								"name": "wDFHomePage",
+								"id": "4500"
+							}
+						]
+					}
+				],
+				"id": ""
+			}
+		]
+	},
+	"category": ""
+}

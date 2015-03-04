@@ -1,0 +1,32 @@
+{
+	"_id": "54e75db9c3a184786ba880b0",
+	"title": "DFX Architecture",
+	"name": "sDFXArchitecture",
+	"requestDate": "2015-02-20T16:16:09.964Z",
+	"ownerId": "",
+	"application": "EnterpriseApps",
+	"visibility": "visible",
+	"layout": {
+		"fixedlayout": "no",
+		"widgetspacing": "yes",
+		"width": "100%",
+		"backgroundcolor": "white",
+		"rows": [
+			{
+				"columns": [
+					{
+						"width": "12",
+						"widgets": [
+							{
+								"name": "wArchitectureSlides",
+								"id": "93886"
+							}
+						]
+					}
+				],
+				"id": ""
+			}
+		]
+	},
+	"category": ""
+}

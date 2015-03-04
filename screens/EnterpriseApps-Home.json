@@ -1,0 +1,32 @@
+{
+	"_id": "54e3e963c3a184786ba87f9a",
+	"title": "Home Page",
+	"name": "Home",
+	"requestDate": "2015-02-20T16:40:46.134Z",
+	"ownerId": "",
+	"application": "EnterpriseApps",
+	"visibility": "visible",
+	"layout": {
+		"fixedlayout": "no",
+		"widgetspacing": "yes",
+		"width": "100%",
+		"backgroundcolor": "white",
+		"rows": [
+			{
+				"columns": [
+					{
+						"width": "12",
+						"widgets": [
+							{
+								"name": "wDFHomePageBPM",
+								"id": "67277"
+							}
+						]
+					}
+				],
+				"id": ""
+			}
+		]
+	},
+	"category": ""
+}

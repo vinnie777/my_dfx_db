@@ -1,0 +1,32 @@
+{
+	"_id": "54e3eee8c3a184786ba87fa1",
+	"title": "IBM BPM Tasks and todo's",
+	"name": "sBPMTasks",
+	"requestDate": "2015-02-19T15:49:06.951Z",
+	"ownerId": "",
+	"application": "EnterpriseApps",
+	"visibility": "visible",
+	"layout": {
+		"fixedlayout": "no",
+		"widgetspacing": "yes",
+		"width": "100%",
+		"backgroundcolor": "white",
+		"rows": [
+			{
+				"columns": [
+					{
+						"width": "12",
+						"widgets": [
+							{
+								"name": "wBPMTasks",
+								"id": "53687"
+							}
+						]
+					}
+				],
+				"id": ""
+			}
+		]
+	},
+	"category": ""
+}

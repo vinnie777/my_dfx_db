@@ -1,0 +1,15 @@
+{
+	"_id": "54e4eeb4c3a184786ba87fe7",
+	"title": "Layouts",
+	"name": "Layouts",
+	"requestDate": "2015-02-18T19:58:00.233Z",
+	"ownerId": "",
+	"application": "miniApps",
+	"parentname": "",
+	"order": "0",
+	"icon": "list-alt",
+	"action": {
+		"type": "no_action",
+		"value": ""
+	}
+}

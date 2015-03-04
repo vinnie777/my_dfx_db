@@ -1,0 +1,15 @@
+{
+	"_id": "54e52af8c3a184786ba88011",
+	"title": "Cloud API's",
+	"name": "Cloud",
+	"requestDate": "2015-02-19T00:15:11.267Z",
+	"ownerId": "",
+	"application": "miniApps",
+	"parentname": "",
+	"order": "2",
+	"icon": "cloud",
+	"action": {
+		"type": "no_action",
+		"value": ""
+	}
+}

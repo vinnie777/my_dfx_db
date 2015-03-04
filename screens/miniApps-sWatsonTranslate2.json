@@ -1,0 +1,32 @@
+{
+	"_id": "54e51b4ac3a184786ba88002",
+	"title": "Call IBM Watson Language Identification then translation services on Bluemix",
+	"name": "sWatsonTranslate2",
+	"requestDate": "2015-02-19T19:24:01.414Z",
+	"ownerId": "",
+	"application": "miniApps",
+	"visibility": "visible",
+	"layout": {
+		"fixedlayout": "no",
+		"widgetspacing": "yes",
+		"width": "100%",
+		"backgroundcolor": "white",
+		"rows": [
+			{
+				"columns": [
+					{
+						"width": "12",
+						"widgets": [
+							{
+								"name": "wWatsonTranslate2",
+								"id": "34023"
+							}
+						]
+					}
+				],
+				"id": ""
+			}
+		]
+	},
+	"category": ""
+}

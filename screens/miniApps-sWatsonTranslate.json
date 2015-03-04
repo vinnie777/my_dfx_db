@@ -1,0 +1,32 @@
+{
+	"_id": "54e51b35c3a184786ba88001",
+	"title": "Call IBM Watson Translation service on Bluemix",
+	"name": "sWatsonTranslate",
+	"requestDate": "2015-02-19T19:23:45.105Z",
+	"ownerId": "",
+	"application": "miniApps",
+	"visibility": "visible",
+	"layout": {
+		"fixedlayout": "no",
+		"widgetspacing": "yes",
+		"width": "100%",
+		"backgroundcolor": "white",
+		"rows": [
+			{
+				"columns": [
+					{
+						"width": "12",
+						"widgets": [
+							{
+								"name": "wWatsonTranslate",
+								"id": "58741"
+							}
+						]
+					}
+				],
+				"id": ""
+			}
+		]
+	},
+	"category": ""
+}

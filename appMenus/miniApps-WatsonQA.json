@@ -1,0 +1,15 @@
+{
+	"_id": "54e51b94c3a184786ba88004",
+	"title": "Question Answer",
+	"name": "WatsonQA",
+	"requestDate": "2015-02-19T19:23:20.417Z",
+	"ownerId": "",
+	"application": "miniApps",
+	"parentname": "Watson",
+	"order": "0",
+	"icon": "",
+	"action": {
+		"type": "screen",
+		"value": "sWatsonQA"
+	}
+}

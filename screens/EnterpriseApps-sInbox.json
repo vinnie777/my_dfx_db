@@ -1,0 +1,32 @@
+{
+	"_id": "54e3ee5bc3a184786ba87f9e",
+	"title": "General Inbox: Get your emails, Process Tasks or other Todo's",
+	"name": "sInbox",
+	"requestDate": "2015-02-19T15:48:49.918Z",
+	"ownerId": "",
+	"application": "EnterpriseApps",
+	"visibility": "visible",
+	"layout": {
+		"fixedlayout": "no",
+		"widgetspacing": "yes",
+		"width": "100%",
+		"backgroundcolor": "white",
+		"rows": [
+			{
+				"columns": [
+					{
+						"width": "12",
+						"widgets": [
+							{
+								"name": "wCommonInbox",
+								"id": "11822"
+							}
+						]
+					}
+				],
+				"id": ""
+			}
+		]
+	},
+	"category": ""
+}

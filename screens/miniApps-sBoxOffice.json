@@ -1,0 +1,32 @@
+{
+	"_id": "54e67b49c3a184786ba8808d",
+	"title": "US Box Office",
+	"name": "sBoxOffice",
+	"requestDate": "2015-02-20T00:11:02.994Z",
+	"ownerId": "",
+	"application": "miniApps",
+	"visibility": "visible",
+	"layout": {
+		"fixedlayout": "no",
+		"widgetspacing": "yes",
+		"width": "100%",
+		"backgroundcolor": "white",
+		"rows": [
+			{
+				"columns": [
+					{
+						"width": "12",
+						"widgets": [
+							{
+								"name": "wBoxOffice",
+								"id": "90786"
+							}
+						]
+					}
+				],
+				"id": ""
+			}
+		]
+	},
+	"category": ""
+}
