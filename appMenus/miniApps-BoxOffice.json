@@ -1,0 +1,15 @@
+{
+	"_id": "54e67b7fc3a184786ba8808e",
+	"title": "US Box Office",
+	"name": "BoxOffice",
+	"requestDate": "2015-02-20T00:11:02.998Z",
+	"ownerId": "",
+	"application": "miniApps",
+	"parentname": "Cloud",
+	"order": "3",
+	"icon": "",
+	"action": {
+		"type": "screen",
+		"value": "sBoxOffice"
+	}
+}

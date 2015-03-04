@@ -1,0 +1,15 @@
+{
+	"_id": "54e53f44c3a184786ba88022",
+	"title": "CNN News Feeds",
+	"name": "CNNNews",
+	"requestDate": "2015-02-19T19:24:43.522Z",
+	"ownerId": "",
+	"application": "miniApps",
+	"parentname": "Cloud",
+	"order": "2",
+	"icon": "",
+	"action": {
+		"type": "screen",
+		"value": "sCNN"
+	}
+}
